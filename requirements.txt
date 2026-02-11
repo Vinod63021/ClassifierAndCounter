@@ -1,0 +1,8 @@
+opencv-python
+Pillow
+ultralytics
+openpyxl
+numpy
+torch
+torchvision
+torchaudio
